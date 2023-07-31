@@ -1,0 +1,75 @@
+.soup_background{
+    height:60vh;
+    width: 100%;
+    position: relative;
+} 
+.title{ 
+    position:absolute;
+    text-align: center;
+    top: 35%;
+    left: 35%;
+    color: white;
+    font-family: 'Open Sans', sans-serif; 
+}  
+
+p{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 200px;
+    margin-top: 50px;
+    line-height:30px;
+    color: black;
+    font-family: 'Open Sans', sans-serif; 
+
+}
+.recipe_img{
+    margin-left: 35%;
+    height: 60px;
+}
+
+hr{
+    width: 75%;
+    color: black;
+    margin-top: 20px;
+}
+
+strong{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 200px;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+ul{
+    list-style-type: "-" ;
+    text-align: left;
+    margin-left: 170px;
+    font-family: 'Open Sans', sans-serif; 
+
+}
+li{
+    line-height:23px;
+    font-size: 15px;
+}
+
+.cook_img{
+    margin-left: 35%;
+    height: 60px;
+}
+
+ol{
+    text-align: left;
+    margin-left: 170px;
+    justify-content:left;
+    font-family: 'Open Sans', sans-serif; 
+
+}
+ol li{
+    line-height:25px;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif; 
+
+}
+.Directions li{
+    list-style-type: none;
+} 
